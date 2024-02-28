@@ -1,4 +1,4 @@
-header
+![Header](https://github.com/AndreiCeavdar/AndreiCeavdar/blob/main/assets/blue.avif)
 
 About me
 
