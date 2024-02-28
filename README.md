@@ -22,4 +22,5 @@
 ### Follow me
 [![Header](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=136db)](https://t.me/kohlschreiber)
 [![Header](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/andrei-ceavdar-244699268/)[![Header](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:andreiceavdar91@gmail.com)
+[![Header](https://img.shields.io/badge/vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/akyjlbl4)
 
