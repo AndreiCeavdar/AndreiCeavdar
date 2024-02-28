@@ -1,6 +1,6 @@
-[![Header](https://github.com/AndreiCeavdar/AndreiCeavdar/blob/main/assets/blue.avif)]
+![Header](https://github.com/AndreiCeavdar/AndreiCeavdar/blob/main/assets/blue.avif)
 
-## I'm a beginner QA Engineer
+## I'm a  QA Engineer
 
 ## My CV
 [link to my CV]
@@ -15,6 +15,17 @@
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=00618a)
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&lPython&logoColor=yellow)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googleChrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Testrail-090909?style=for-the-badge&logo=testrail&logoColor=2674f2)
+
+
+### Testing Documentation
+
+- [Checklists]
+- [Test-suites and Test-cases]
+- [Bug-Reports]
+- [SQL Querias/BASH]
+- [Postman collections]
+- [PyCharm/Python/Selenium]
 
 
 
