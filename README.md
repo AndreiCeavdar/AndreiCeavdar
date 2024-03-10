@@ -13,7 +13,6 @@
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma&logoColor=7d5fa6)
 ![Header](https://img.shields.io/badge/DBeaver-090909?style=for-the-badge&logo=DBeaver&logoColor=f7f7f7)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=00618a)
-![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&lPython&logoColor=yellow)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googleChrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Testrail-090909?style=for-the-badge&logo=testrail&logoColor=2674f2)
 
@@ -21,11 +20,11 @@
 ### Testing Documentation
 
 - [Checklists]
-- [Test-suites and Test-cases]
+- [Test-cases]
 - [Bug-Reports]
 - [SQL Querias/BASH]
-- [Postman collections]
-- [PyCharm/Python/Selenium]
+- [Postman]
+- [Mindmaps]
 
 
 
