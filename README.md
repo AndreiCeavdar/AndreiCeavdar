@@ -3,7 +3,7 @@
 ## I'm a  QA Engineer
 
 ## My CV
-[link to my CV]
+[link to my CV](https://drive.google.com/file/d/1GwMrBonUBY_ehBmGEu-Uk5Dgh7vtWp8l/view?usp=sharing)
 
 ### languages and Tools
 ![Header](https://img.shields.io/badge/jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -19,12 +19,14 @@
 
 ### Testing Documentation
 
-- [Checklists]
-- [Test-cases]
-- [Bug-Reports]
-- [SQL Querias/BASH]
-- [Postman]
-- [Mindmaps]
+- [Checklists](https://drive.google.com/drive/folders/1wLcLucGt6KwdUGcOUnQxlypKeYk6llmL?usp=sharing)
+- [Test-cases](https://docs.google.com/spreadsheets/d/1Gs3fc_1D2ZBl0gT3zyylnKQP4oyNb7LwyKsFifiH79w/edit?usp=sharing)
+- [Bug-Reports](https://drive.google.com/drive/folders/17Zo_K-a5t8tMcFv-9l-t18eFxbh7gjHa?usp=sharing)
+- [SQL Querias/BASH](https://drive.google.com/drive/folders/1ZpKpNRGgjKHS1GoP_pKbwpgdh6DHbLps?usp=sharing)
+- [Postman](https://drive.google.com/drive/folders/1cAP7vqpIFvIgJp53DAIEr3FM5oe7Qdmf?usp=sharing)
+- [Mindmaps](https://drive.google.com/drive/folders/18aODDb5KEfcFLiKf_z1uarYSimPTe1fW?usp=sharing)
+- [HTML/CSS](https://drive.google.com/drive/folders/1sUVLaPzlZ_-jLMmsg2CEmINOqYM_iEdc?usp=sharing)
+- [test results report](https://docs.google.com/document/d/1F_aI799xa2IHzSaW9Fk1OW3_d2nKDGik/edit?usp=sharing&ouid=115566866843478683398&rtpof=true&sd=true)
 
 
 
